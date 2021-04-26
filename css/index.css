@@ -1,0 +1,56 @@
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	vertical-align: middle;
+	height: 100vh;
+	width: 100vw;
+}
+
+.f-ubuntuc {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.udarkblue {
+	color: #004D65;
+}
+
+.f-xlg {
+	font-size: xx-large;
+}
+
+.f-lg {
+	font-size: x-large;
+}
+
+.t-center {
+	text-align: center;
+}
+
+.mt-10 {
+	margin-top: 20% !important;
+}
+
+a, a:hover {
+  border:none !important;
+  outline:none !important;
+  text-decoration:none !important;
+  color:inherit !important;
+}
+
+a:hover {
+	text-decoration: none !important;
+	color:inherit !important;
+}
+
+.f-b {
+	font-weight: bold;
+}
+
+.menuback {
+	background: #cbf0ff
+}
+
+.uyellow {
+	color: #be38f3;
+}
