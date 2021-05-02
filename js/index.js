@@ -1,4 +1,5 @@
-anime.timeline({loop: true})
+$(document).ready(function() {
+  anime.timeline({loop: true})
   .add({
     targets: '.ml15 .word',
     scale: [14,1],
@@ -13,3 +14,4 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
   });
+});
