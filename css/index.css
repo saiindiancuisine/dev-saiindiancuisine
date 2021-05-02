@@ -13,6 +13,7 @@
 
 .udarkblue {
 	color: #004D65;
+	/*color:#2e334f;*/
 }
 
 .f-xlg {
@@ -49,8 +50,22 @@ a:hover {
 
 .menuback {
 	background: #cbf0ff
+	/*background: #ffc5ab*/
 }
 
 .uyellow {
 	color: #be38f3;
+}
+
+.ml15 {
+  font-weight: 800;
+  font-size: 3.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+.ml15 .word {
+  display: inline-block;
+  line-height: 1em;
+  color:#e22400;
 }
